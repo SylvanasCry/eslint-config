@@ -1,7 +1,7 @@
 {
   "name": "@sylvanas-cry/eslint-config",
-  "version": "1.0.0",
-  "description": "ESLint Shared Config",
+  "version": "1.0.1",
+  "description": "ESLint Shared Config.",
   "repository": {
     "url": "https://github.com/SylvanasCry/eslint-config"
   },
@@ -14,7 +14,7 @@
     "eslint",
     "lint"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "index.js"
   ],
